@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jagritisurabhi
+ :sunflower: Hi, I’m Jagriti
 <!-- 👀 I’m interested in becoming a good old Python developer 
 - 🌱 I’m currently learning the Django framework, SQL Databases, Docker and PyTest-->
-- 📫 How to reach me > jagritisurabhi17@gmail.com
+📫 jagritisurabhi17@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
